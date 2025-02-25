@@ -3,19 +3,23 @@
 <br/>
 
 
-# 1. Project Overview (프로젝트 개요)
+# 1. 프로젝트 개요
 - 프로젝트 이름: MoeimEasy
 - 프로젝트 설명: 회비 정산 및 납부, 일정 관리, 실시간 소통 기능이 포함된 모임 관리 서비스
 
 <br/>
 <br/>
 
-# 2. Team Members (팀원 및 팀 소개)
+# 2. 팀원 및 역할 분담
 | 장현수 | 김지훈 | 이유진 | 안성준 |
-|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="장현수" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="김지훈" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="이유진" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="안성준" width="150"> |
 | BE | BE | BE | BE |
-| [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
+|:------:|:------:|:------:|:------:|
+|  |  |  |
+|-----------------|-----------------|-----------------|
+| <ul><li>프로젝트 전체 일정 관리 및 진행 상황 점검</li><li>로그인</li><li>회원가입</li><li>아이디찾기</li><li>비밀번호 재설정</li><li>회원정보수정</li></ul>     |
+|<ul><li>회의록 작성 및 프로젝트 주요 결정 사항 정리</li><li>일정 관리 페이지</li><li>게시판</li><li>모임 갤러리</li><li>헤더 및 사이드 바</li></ul> |
+|<ul><li>UX 개선 및 인터페이스 설계</li><li>회원 초대 및 조회</li><li>모임 입장 및 생성</li><li>채팅</li><li>정산</li></ul>  |
+|<ul><li>DB 설계 및 배포 환경 설정 및 관리</li><li>회비 조회</li><li>거래내역 조회</li><li>카테고리 별 소비내역</li></ul>    |
 
 <br/>
 <br/>
@@ -49,12 +53,7 @@
 <br/>
 
 # 4. Tasks & Responsibilities (작업 및 역할 분담)
-|  |  |  |
-|-----------------|-----------------|-----------------|
-| 장현수    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>팀 리딩 및 커뮤니케이션</li><li>커스텀훅 개발</li></ul>     |
-| 김지훈   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="100">| <ul><li>메인 페이지 개발</li><li>동아리 만들기 페이지 개발</li><li>커스텀훅 개발</li></ul> |
-| 이유진   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="100">    |<ul><li>홈 페이지 개발</li><li>로그인 페이지 개발</li><li>동아리 찾기 페이지 개발</li><li>동아리 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>  |
-| 안서준    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="100">    | <ul><li>회원가입 페이지 개발</li><li>마이 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>    |
+
 
 <br/>
 <br/>
